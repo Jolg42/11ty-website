@@ -1,8 +1,8 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "Hylia Starter Kit",
   "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
+  "url": "https://fervent-mcclintock-e2480a.netlify.com/",
   "authorEmail": "me@andy-bell.design",
   "authorHandle": "@andybelldesign",
   "authorName": "Andy Bell",
